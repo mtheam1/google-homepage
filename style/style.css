@@ -1,0 +1,77 @@
+ul li {
+    list-style-type: none;
+    
+}
+
+#navigation {
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    position: relative;
+        left: 1500px;
+}
+
+.textbox {
+    width: 300px;
+    font-size: 20px;
+}
+
+#container {
+    position: relative;
+    top: 200px;
+    left: 752px;
+    align-content: center;
+}
+
+.header {
+    width: 500px;
+    position: relative;
+    right: 1000px;
+}
+
+#footer-position {
+    position: absolute;
+    bottom: 0;
+}
+
+#footer {
+    float: left;
+    width: 400px;
+    font: 20px;
+}
+
+#footer2 {
+    position: absolute;
+    bottom: 0;
+    left: 1700px;
+    float: right;
+    width: 400px;
+    font: 20px;
+}
+
+li  {
+    
+    color: black;
+    padding: 0px 5px;
+    text-decoration: none;
+    float: left;
+}
+
+li a {
+    color: black;
+    
+    text-decoration: none;
+    float: left;
+}
+
+
+li a:hover {
+    text-decoration: underline; 
+}
+
+header , input {
+    float: center;
+    position: relative:
+        
+}
+
